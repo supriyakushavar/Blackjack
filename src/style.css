@@ -1,0 +1,65 @@
+body{
+    background: #000;
+    text-align: center;
+    color: #fff;
+}
+
+.play{
+    background: #ccc;
+    width: 200px;
+    padding: 20px;
+    font-size: 20px;
+}
+
+h2 , p {
+    color: #fff;
+}
+
+
+table{
+    border: 2px solid #fff;
+    padding: 30px;
+    margin: 0 auto;
+    display: table;
+}
+
+table tr td{
+    padding: 20px;
+}
+
+table tr td a{
+    font-size: 20px;
+    color: #fff;
+}
+
+table tr td a:hover{
+    text-decoration: none;
+}
+
+.fas{
+    color: yellow;
+}
+
+.emoji{
+    padding: 0;
+    margin: 0;
+    font-size: 60px;
+    display: inline;
+}
+
+.container{
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    padding: 30px;
+    border: 2px solid #fff;
+}
+
+.container button{
+    padding: 20px;
+    font-size: 20px;
+    margin: 0 20px;
+}
+.container input{
+    font-size: 15px;
+}
